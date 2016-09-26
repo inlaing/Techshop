@@ -1,0 +1,211 @@
+li {
+    list-style-type: none;
+}
+.row{
+    background: black;
+    display: block;
+    clear:both;
+    cursor: pointer;
+}
+.menu{
+    color: #ffffff;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 500px;
+}
+.menu>ul>li:hover{
+    color: red;
+}
+.logo{
+    margin-left: 85px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.tel{
+    font-size: x-large;
+    margin-top: 15px;
+    padding: 1px;
+    margin-left: -25px;
+}
+.glyphicon-earphone{
+    color: #24c3e0;
+}
+.tel>a{
+    text-decoration: none;
+}
+.input-group{
+    width: 510px;
+    margin-top: 15px;
+    margin-left: -30px;
+}
+.basket{
+    background:#24c3e0;
+    position: relative;
+    margin-top: -40px;
+    margin-left: 750px;
+    height: 87px;
+    width: 170px;
+    text-align: center;
+    cursor: pointer;
+    color: #ffffff;
+}
+.basket h3:hover{
+    color: red;
+}
+.basket p:hover{
+    color: red;
+}
+.middle-right>div {
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.one{
+    margin-left: -50px;
+    color: #24c3e0;
+}
+.two{
+    margin-left: 10px;
+}
+.three{
+    margin-left: 10px;
+}
+.four{
+    margin-left: -30px;
+}
+.five{
+    margin-left: -10px;
+}
+.six{
+    margin-left: 50px;
+}
+.middle-right>hr{
+    border: none;
+    width: 1140px;
+    height:3px;
+    background-color:black;
+    margin-left: -220px;
+}
+.content{
+    background: #f4f5f7;
+    margin-top: -20px;
+}
+.head{
+    margin-left: 70px;
+}
+.row2>h3{
+    margin-left: 70px;
+    margin-top: 5px;
+}
+.row2>img{
+    margin-left: 60px;
+}
+.img>img{
+    margin-top: 17px;
+    margin-left: 50px;
+}
+.infomation{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.right-part>.one{
+    height: 135px;
+    width: 170px;
+    background: white;
+    margin-left: 30px;
+    color: black;
+}
+.right-part>.two{
+    height: 135px;
+    width: 170px;
+    background: white;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.right-part>.three{
+    height: 135px;
+    width: 170px;
+    background: white;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 105px;
+}
+.right-part>.one>img{
+    margin: 10px;
+}
+.right-part>.one>h4{
+    margin-left: 50px;
+    margin-top: -35px;
+}
+.right-part>.two>img{
+    margin: 10px;
+}
+.right-part>.two>h4 {
+    margin-left: 50px;
+    margin-top: -35px;
+}
+.right-part>.three>img{
+    margin: 10px;
+}
+.right-part>.three>h4 {
+    margin-left: 50px;
+    margin-top: -35px;
+}
+.right-part>.one>p{
+    margin: 10px;
+    font-size: small;
+}
+.right-part>.two>p{
+    margin: 10px;
+    font-size: small;
+}
+.right-part>.three>p{
+    margin: 10px;
+    font-size: small;
+}
+.GB{
+    margin-left: 18px;
+}
+.gold{
+    margin-left: 20px;
+}
+.size>h3{
+    margin-left: 25px;
+}
+.size>button{
+    height: 40px;
+    background: #24c3e0;
+    color: white;
+    margin-left: 120px;
+    margin-top: -40px;
+}
+footer>hr{
+    border: none;
+    width: 100%;
+    height:4px;
+    background-color:black;
+}
+.social>a {
+    width: 55px;
+    height: 55px;
+    display: block;
+    border: 0px solid #000;
+    background-repeat: no-repeat;
+    background: url(../img/social_sprite.png);
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.social .fb{
+    background-position: 0px 0px;
+}
+.social .tw{
+    background-position: -65px -0px;
+}
+.social .google{
+    background-position: -128px -0px;
+}
+.social .inst{
+    background-position: -190px -0px;
+}
